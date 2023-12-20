@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace framework.core_app
+{
+    public interface IServiceApp<TEntity>
+    {
+         void create(TEntity entity);
+         void read(TEntity entity);
+         void delete(TEntity entity);
+         void update(TEntity entity);
+        //public void findOneById();
+        //public void findAll();
+
+    }
+}

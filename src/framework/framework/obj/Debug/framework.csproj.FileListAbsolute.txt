@@ -1,0 +1,9 @@
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\bin\Debug\framework.exe.config
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\bin\Debug\framework.exe
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\bin\Debug\framework.pdb
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\obj\Debug\framework.csproj.AssemblyReference.cache
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\obj\Debug\framework.Properties.Resources.resources
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\obj\Debug\framework.csproj.GenerateResource.cache
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\obj\Debug\framework.csproj.CoreCompileInputs.cache
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\obj\Debug\framework.exe
+C:\Users\LAP PHAN\source\repos\20127261_20127547_DesignPattern_-SimpleEnterprise\src\framework\framework\obj\Debug\framework.pdb
