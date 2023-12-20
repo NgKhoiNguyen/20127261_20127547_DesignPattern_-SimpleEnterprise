@@ -189,6 +189,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="auth\auth_Proxy.cs" />
     <Compile Include="auth\auth_service.cs" />
     <Compile Include="auth\IAuth.cs" />
     <Compile Include="core_app\IService.cs" />
