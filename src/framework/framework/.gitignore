@@ -1,0 +1,32 @@
+﻿# Visual Studio Code
+.vscode/
+
+# Visual Studio cache directories
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio files
+*.VisualState.xml
+*.dbmdl
+
+# Rider
+.idea/
+*.sln.iml
